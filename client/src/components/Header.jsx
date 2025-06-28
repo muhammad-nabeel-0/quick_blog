@@ -9,7 +9,7 @@ const Header = () => {
                     <p>New: AI feature integrated</p>
                     <img src={assets.star_icon} alt="star_icon" className='w-2.5' />
                 </div>
-                <h1 className='text-3xl  sm:text-6xl sm:leading-16 font-semibold text-gray-700 '>Your own <span className='text-primary'>blogging</span><br />
+                <h1 className='text-3xl  sm:text-6xl sm:leading-16 font-semibold text-gray-700 font-bebas '>Your own <span className='text-primary'>blogging</span><br />
                     platform.</h1>
                 <p className='text-gray-500 m-auto max-sm:text-xs my-6 sm:my-8 max-w-2xl'>This is your space to think out loud, to share what matters, and to write without filters. Whether it's one word or a thousand, your story starts right here.</p>
                 {/* search box */}
